@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi ¡Nice to meet you! 👋
 
-<!--
-**clemente825/clemente825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student of microcomputer systems and networks.
 
-Here are some ideas to get you started:
+💻I'm interested in fixing and configuring computers and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am currently learning:
+- Windows and Linux system administration
+- TCP/IP networks
+- Virtualization
+- Basic Python
+- Computer security
+
+## Technology and tools:
+- Windows and Linux
+- VirtualBox
+- Visual Studio Code
+- GitHub and Git
+- Basic Python
+
+## Projects:
+**Local area networks**
+- Creating a Linux server on virtual machines
+- GLPI database management (screenshot)
+
+**Assembly and maintenance**
+- Assembling and configuring desktop computers
+- Installing Windows and Linux (screenshots)
+
+**Python**
+- I have created a computer inventory program (screenshot)
+- A calculator with different functionalities (screenshot)
