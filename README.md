@@ -19,14 +19,27 @@ I am a student of microcomputer systems and networks.
 - Basic Python
 
 ## Projects:
-**Local area networks**
+🛜**Local area networks**
 - Creating a Linux server on virtual machines
-- GLPI database management (screenshot)
+- GLPI database management: [Práctica GLPI](evidencias/GLPI/documentació.md)
 
-**Assembly and maintenance**
+⌨️**Assembly and maintenance**
 - Assembling and configuring desktop computers
-- Installing Windows and Linux (screenshots)
+- Installing Windows and Linux
 
-**Python**
-- I have created a computer inventory program (screenshot)
-- A calculator with different functionalities (screenshot)
+👨‍💻**Python**
+- I have created a computer inventory program: [Programa inventario](evidencias/python/pr005-inventari/main.py)
+- A calculator with different functionalities: [Calculadora con historial](evidencias/python/pr001-calculadora/calculadora_hist.py)
+
+## Objectives
+- To continue my studies in the ASIR (Advanced Vocational Training) 
+- Gain experience in the sector
+- Complete a computer repair and assembly course
+
+## Social media
+
+📸Instagram: @cl3m3nte_guti
+
+🐦X (Twitter): @Cl3m3nt3_guti
+
+💼Linkedin: @Clemente Ramos Gutierrez
