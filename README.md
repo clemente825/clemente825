@@ -40,6 +40,6 @@ I am a student of microcomputer systems and networks.
 
 📸Instagram: @cl3m3nte_guti
 
-🐦X (Twitter): @Cl3m3nt3_guti
+🐦X (Twitter): @Cl3m3nt3_33_3
 
-💼Linkedin: @Clemente Ramos Gutierrez
+💼Linkedin: @ClementeRamosGutierrez
