@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Guía de Protocolos de Red</title>
+</head>
+<body>
+    <h1>Guía de Referencia de Protocolos de Red</h1>
+
+    <h2>Conceptos principales</h2>
+    <dl>
+        <dt>HTTP</dt>
+        <dd>Protocolo utilizado para la comunicación entre navegadores y servidores web.</dd>
+        <dt>FTP</dt>
+        <dd>Protocolo utilizado para transferir archivos entre equipos.</dd>
+        <dt>DNS</dt>
+        <dd>Sistema que relaciona nombres de dominio con direcciones IP.</dd>
+    </dl>
+
+    <h2>Bloque de código</h2>
+    <pre>
+GET /inicio.html HTTP/1.1
+Host: servidor.ejemplo
+Accept: text/html
+    </pre>
+
+    <h2>Códigos de error</h2>
+    <table border="1">
+        <tr><th>Código</th><th>Significado</th></tr>
+        <tr><td>400</td><td>Solicitud incorrecta</td></tr>
+        <tr><td>404</td><td>Recurso no encontrado</td></tr>
+        <tr><td>500</td><td>Error interno del servidor</td></tr>
+    </table>
+</body>
+</html>

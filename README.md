@@ -1,45 +1,43 @@
-# Hi ¡Nice to meet you! 👋
+# ¡Hola! 👋
 
-I am a student of microcomputer systems and networks.
+Soy estudiante de Sistemas Microinformáticos y Redes (SMR).
 
-💻I'm interested in fixing and configuring computers and cybersecurity.
+💻 Me interesa la reparación, mantenimiento y configuración de ordenadores.
 
-## I am currently learning:
-- Windows and Linux system administration
-- TCP/IP networks
-- Virtualization
-- Basic Python
-- Computer security
+## Actualmente estoy aprendiendo:
+- Virtualización de máquinas Windows y Ubuntu, en virtual box.
+- HTML y CSS.
+- Reparación, montaje y mantenimiento de ordenadores.
+- Gestión de servidores Windows, en máquinas virtuales.
 
-## Technology and tools:
-- Windows and Linux
-- VirtualBox
-- Visual Studio Code
-- GitHub and Git
-- Basic Python
+## Tecnologías y herramientas:
+- Windows y Linux.
+- VirtualBox.
+- Visual Studio Code.
+- GitHub y Git.
+- Python, CSS y HTML básico.
+- Hardware de ordenadores.
 
-## Projects:
-🛜**Local area networks**
-- Creating a Linux server on virtual machines
-- GLPI database management: [Práctica GLPI](evidencias/GLPI/documentació.md)
+## Proyectos:
 
-⌨️**Assembly and maintenance**
-- Assembling and configuring desktop computers
-- Installing Windows and Linux
+⌨️ **Montaje y mantenimiento**
+- Montaje y configuración de ordenadores de sobremesa.
+- Instalación de Windows y Linux.
+- Reparación de problemas tanto software y hardware.
 
-👨‍💻**Python**
-- I have created a computer inventory program: [Programa inventario](evidencias/python/pr005-inventari/main.py)
-- A calculator with different functionalities: [Calculadora con historial](evidencias/python/pr001-calculadora/calculadora_hist.py)
+👨‍💻 **Python**
+- He creado un programa de inventario informático: [Programa inventario](evidencias/python/pr005-inventari/main.py).
+- Una calculadora con diferentes funcionalidades: [Calculadora con historial](evidencias/python/pr001-calculadora/calculadora_hist.py).
 
-## Objectives
-- To continue my studies in the ASIR (Advanced Vocational Training) 
-- Gain experience in the sector
-- Complete a computer repair and assembly course
+👨‍💻**HTML**
+- He creado en clase webs sencillas para prácticar HTML básico: [Ejercicios HTML 1](evidencias/HTML/HTML/Practicas_HTML_Clemente-Ramos) | [Ejercicios HTML 2](evidencias/HTML/HTML/Practicas_2_HTML_Clemente-Ramos)
 
-## Social media
+## Objetivos:
+- Completar un curso de reparación y montaje de ordenadores. Y reparación de teléfonos y tablets.
+- Seguir adquiriendo mas experiencia en este secto como técnico informático.
 
-📸Instagram: @cl3m3nte_guti
-
-🐦X (Twitter): @Cl3m3nt3_guti
+## Redes sociales / contacto
 
 💼Linkedin: @Clemente Ramos Gutierrez
+
+📥Correo: clementeramosgutierrez@gmail.com 
