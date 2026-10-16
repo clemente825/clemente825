@@ -8,7 +8,7 @@
 
 | 🧩 Area| 📖 Skills|
 | ---------------------- | --------------------------------------- |
-| 🪟🐧 **Sistemas**| Windows server|
+| 🪟 **Sistemas**| Windows server|
 | 🌐 **Networking**| DNS/HTCP/IP|
 | 🐍 **Programar**| Basic HTML|
 | 🔐 **Seguridad**| seguridad básica de sistemas|
