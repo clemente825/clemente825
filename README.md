@@ -2,7 +2,7 @@
 
 > Actualmente estudiante del CFGM de Sistemas Microinformáticos y redes (SMR) y en un futuro técnico de Administración de Sistemas en Red (ASIR). Estoy buscando prácticas educativas para poder augmentar mi experiencia como técnico informático, me gusta mucho el hardware y ser técnico helpdesk, para ayudar a usuarios con problemas técnicos básicos. Tambien me gustan mucho los videojuegos y leer :) 
 
-💻 Me interesa la reparación, mantenimiento y configuración de ordenadores.
+---
 
 ## Actualmente estoy aprendiendo:
 - Virtualización de máquinas Windows y Ubuntu, en virtual box.
@@ -19,23 +19,16 @@
 | 💻 **Programación web**      | Fundamentos de HTML y CSS|
 | 🛠️ **Helpdesk**             | Diagnóstico y resolución de incidencias técnicas|
 
+---
 
-## Proyectos:
+# 🖥️ Tecnologias utilizadas
 
-⌨️ **Montaje y mantenimiento**
-- Montaje y configuración de ordenadores de sobremesa.
-- Instalación de Windows y Linux.
-- Reparación de problemas tanto software y hardware.
-
-👨‍💻 **Python**
-- He creado un programa de inventario informático: [Programa inventario](evidencias/python/pr005-inventari/main.py).
-- Una calculadora con diferentes funcionalidades: [Calculadora con historial](evidencias/python/pr001-calculadora/calculadora_hist.py).
 
 🪟 **Windows**    🐧 **Linux**      📦 **VirtualBox** <br>
 🐙 **GitHub**     🐍 **Python-HTML**     🛠️ **montaje y reparación de quipos**
 </p>
 
-## Redes sociales / contacto
+---
 
 # 🛠️ Proyectos destacados
 
@@ -54,6 +47,7 @@ En esta sección documento proyectos prácticos y conocimientos relacionados con
 
 # 📄 Curriculum (CV)
 
+[CV - CLEMENTE RAMOS GUTIERREZ](<evidencias/cv/CV Clemente Ramos Gutierrez (trabajo).pdf>)
 
 ---
 
@@ -69,7 +63,9 @@ En esta sección documento proyectos prácticos y conocimientos relacionados con
 
 📸 **email**: clementeramosgutierrez@gmail.com
 
-💼 **LinkedIn:** @clemente ramos gutierrez
+📞 **Teléfono:** (+34) 684-21-85-89
+
+💼 **LinkedIn:** @clemente-ramos-gutierrez
 
 ---
 
