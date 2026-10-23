@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+  <title>Tablas en HTML</title>
+  <style>
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      padding: 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <table>
+    <h1>Tabla de clasificación</h1>
+    
+    <thead>
+      <tr>
+        <th>Equipo</th>
+        <th>Puntos</th>
+        <th>Estado</th>
+      </tr>
+    </thead>
+
+    <caption>Resultados Grupo A</caption>
+
+    <tbody>
+      <tr>
+        <td>Equipo A</td>
+        <td>15</td>
+        <td rowspan="2">Clasificados</td> <!-- filas verticales-->
+      </tr>
+      <tr>
+        <td>Equipo B</td>
+        <td>20</td>
+      </tr>
+      <tr>
+        <td colspan="2">total de partidos jugados</td> <!-- columnas horizontales-->
+        <td>2 equipos</td>
+      </tr>
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th>Promedio</th>
+        <th>15</th>
+        <th>Finalizado</th>
+      </tr>
+    </tfoot>
+  </table>
+</body>
+</html>

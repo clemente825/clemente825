@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Tablas en HTML</title>
+  <style>
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      padding: 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Tablas Semánticas en HTML</h1>
+
+  <table>
+    <caption>Notas del Grupo</caption>
+    
+    <thead>
+      <tr>
+        <th>Alumno/a</th>
+        <th>Nota</th>
+        <th>Estado</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>Mortadelo</td>
+        <td>9</td>
+        <td rowspan="2">Aprobados</td>
+      </tr>
+      <tr>
+        <td>Filemón</td>
+        <td>7</td>
+      </tr>
+      <tr>
+        <td colspan="2">Total de alumnos evaluados</td>
+        <td>2 alumnos</td>
+      </tr>
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th>Nota Media</th>
+        <th>8</th>
+        <th>Promedio</th>
+      </tr>
+    </tfoot>
+  </table>
+
+</body>
+</html>

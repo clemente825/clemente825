@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Métodos para incluir CSS en HTML</title>
+  
+  <!-- 2. Etiqueta <style> interna -->
+  <style>
+    p {
+      color: green;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Prioridad y Cascada en CSS</h1>
+
+  <!-- 1. Estilo en línea (Máxima prioridad) -->
+  <p style="color: red;">
+    ¿De qué color sale este texto? (Saldrá ROJO porque el estilo en línea gana prioridad).
+  </p>
+
+  <p>
+    Este texto saldrá VERDE porque aplica la regla del bloque &lt;style&gt;.
+  </p>
+
+</body>
+</html>

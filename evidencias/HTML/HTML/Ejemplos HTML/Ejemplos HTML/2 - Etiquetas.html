@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Estructura Semántica en HTML5</title>
+</head>
+<body>
+
+  <header>
+    <h1>Bienvenidos a mi página web</h1>
+    <p>Esta es la cabecera (header). Aquí suele ir el título principal o el logo.</p>
+  </header>
+
+  <nav>
+    <a href="#noticias">Noticias</a> | 
+    <a href="#cita">Cita</a> | 
+    <a href="#codigo">Código</a> | 
+    <a href="#contacto">Contacto</a>
+  </nav>
+
+  <main>
+
+    <section id="noticias">
+      <h2>Últimas Noticias</h2>
+
+      <article>
+        <h3>Primera noticia</h3>
+        <p>Este es el texto de la primera noticia. Cada entrada independiente usa &lt;article&gt;.</p>
+      </article>
+
+      <article>
+        <h3>Segunda noticia</h3>
+        <p>Este es el texto de la segunda noticia. Es contenido autónomo.</p>
+      </article>
+    </section>
+
+    <hr>
+
+    <section id="cita">
+      <h2>Una cita famosa</h2>
+      <blockquote>
+        "El único modo de hacer un gran trabajo es amar lo que haces." — Steve Jobs
+      </blockquote>
+    </section>
+
+    <hr>
+
+    <section id="codigo">
+      <h2>Ejemplo de texto preformateado (&lt;pre&gt;)</h2>
+      <p>La etiqueta &lt;pre&gt; respeta espacios y saltos de línea:</p>
+      <pre>
+  Nombre: Ana
+  Edad:   20
+  Ciudad: Madrid
+      </pre>
+    </section>
+
+    <hr>
+
+    <section>
+      <h2>El contenedor neutro (&lt;div&gt;)</h2>
+      <p>El &lt;div&gt; no aporta significado semántico; se usa para agrupar elementos y aplicar CSS:</p>
+
+      <div>
+        <p>Párrafo 1 dentro de un div.</p>
+        <p>Párrafo 2 dentro del mismo div.</p>
+      </div>
+    </section>
+
+  </main>
+
+  <aside>
+    <h3>¿Sabías que...?</h3>
+    <p>Las etiquetas semánticas ayudan a los motores de búsqueda (SEO) y a la accesibilidad.</p>
+  </aside>
+
+  <footer id="contacto">
+    <p>Contacto: ejemplo@ifp.professional.com</p>
+    <p>&copy; Curso de HTML Básico</p>
+  </footer>
+
+</body>
+</html>
