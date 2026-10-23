@@ -1,3 +1,0 @@
-Sortida
-Afegir ordinador
-Mostrar inventari

@@ -1,17 +1,20 @@
-# 👋 ¡Hola!
+# 👋 ¡BIENVENIDO A MI PORTAFOLIO!
 
-> Estudiante de 2º de SMR interesado en sistemas, redes, soporte técnico y administración de sistemas. Actualmente estoy buscando una oportunidad de prácticas para adquirir experiencia profesional y seguir desarrollando mis conocimientos.
+> Actualmente estudiante del CFGM de Sistemas Microinformáticos y redes (SMR) y en un futuro técnico de Administración de Sistemas en Red (ASIR). Estoy buscando prácticas educativas para poder augmentar mi experiencia como técnico informático, me gusta mucho el hardware y ser técnico helpdesk, para ayudar a usuarios con problemas técnicos básicos. Tambien me gustan mucho los videojuegos y leer :) 
 
 ---
 
 ## 📚 Actualmente estoy aprendiendo
 
-| 🧩 Area| 📖 Skills|
-| ---------------------- | --------------------------------------- |
-| 🪟 **Sistemas**| Windows server|
-| 🌐 **Networking**| DNS/HTCP/IP|
-| 🐍 **Programar**| Basic HTML|
-| 🔐 **Seguridad**| seguridad básica de sistemas|
+| 🧩 Área                      | 📖 Conocimientos en desarrollo                              |
+| ---------------------------- | ----------------------------------------------------------- |
+| 🖥️ **Sistemas**             | Windows (server) y Linux(ubuntu server)|
+| 🌐 **Redes**                 | DNS y DHCP, IPs, configuración de dominios en local (en MV)|
+| 🔧 **Hardware**              | Diagnóstico de averías y mantenimiento e instalación de equipos|
+| 🔐 **Seguridad informática** | Seguridad física y software y protección de sistemas|
+| 💻 **Programación web**      | Fundamentos de HTML y CSS|
+| 🛠️ **Helpdesk**             | Diagnóstico y resolución de incidencias técnicas|
+
 
 ---
 
@@ -19,39 +22,22 @@
 
 <p align="center">
 
-🪟 **Windows**    🐧 **Linux**    📦 **VirtualBox** <br>
-💻 **Visual Studio Code**    🐙 **GitHub & Git**    🐍 **Python**   
-📊 **base de datos (GLPI)**   🛠️ **montaje y reparación de quipos**
-
+🪟 **Windows**    🐧 **Linux**      📦 **VirtualBox** <br>
+🐙 **GitHub**     🐍 **Python-HTML**     🛠️ **montaje y reparación de quipos**
 </p>
 
 ---
 
-# 🚀 Projectos
+# 🛠️ Proyectos destacados
 
-### 🛜 Redes locales
+En esta sección documento proyectos prácticos y conocimientos relacionados con el **soporte técnico informático (Helpdesk), el hardware y la administración de sistemas**. Incluye el montaje y mantenimiento de un ordenador gaming con Windows 11, la instalación de Windows Server y Ubuntu en máquinas virtuales, prácticas de identificación y resolución de incidencias de hardware, buenas prácticas de seguridad informática y procedimientos de mantenimiento preventivo de equipos.
 
-* Cree un servidor en Linux ubuntu en una máquina virtual
-* Cree una base de datos en GLPI: [Práctica GLPI](evidencias/GLPI/documentació.md)
+📂 **[Consultar proyectos destacados](./evidencias/proyectos-destacados.md)**
 
----
-
-### ⌨️ Montaje y mantenimiento
-
-* Ensamblaje y configuración de computadoras de escritorio
-* Hacer un buen mantenimiento a ordenadores
-* Instalé Windows y Linux en máquinas virtuales
 
 ---
 
-### 👨‍💻 Python
-
-* [Programa inventario de hardware](evidencias/python/pr005-inventari/main.py)
-* [Calculadora con historial](evidencias/python/pr001-calculadora/calculadora_hist.py)
-
----
-
-# 📚 certificaciones
+# 📚 certificaciones/cursos
 
 [Curso: cisco packet academy - English for IT 1](evidencias/certificaciones-cursos/English_for_IT_1_certificate_clementeramosgutierrez-digitechfp-com_2785398f-50e6-4c72-b3ef-5e3522d9ed83.pdf)
 
@@ -59,15 +45,14 @@
 
 # 📄 Curriculum (CV)
 
-[CV: Clemente Ramos Gutierrez](<evidencias/cv/CV Clemente Ramos Gutierrez.pdf>)
 
 ---
 
 ## 🎯 Objectivos
 
-* Continuar haciendo un grado superior de ASIR
-* Ganar aún más experiencia en el sector
-* Poder trabajar con algo relacionado a helpdesk o reparacion y mantenimiento de equipos
+* Continuar haciendo un grado superior de ASIR y más adelante cursos especializados en hardware.
+* Ganar aún más experiencia en el sector con prácticas educativas
+* Poder trabajar cómo técnico informático / técnico heldesk
 
 ---
 
@@ -80,5 +65,5 @@
 ---
 
 <p align="center">
-  <b>Clemente Ramos Gutierrez - Barcelona, hospitalet de llobregat</b>
+  <b>© Portafolio creado por Clemente Ramos Gutierrez - Derechos reservados</b>
 </p>
