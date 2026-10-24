@@ -45,9 +45,9 @@ En esta sección documento proyectos prácticos y conocimientos relacionados con
 
 ---
 
-# 📄 Curriculum (CV)
+# 🌐 Para más información entra en mi i página web
 
-[CV - CLEMENTE RAMOS GUTIERREZ](<evidencias/cv/CV Clemente Ramos Gutierrez (trabajo).pdf>)
+https://clemente825.github.io/portafolio-clemente/
 
 ---
 
@@ -56,16 +56,6 @@ En esta sección documento proyectos prácticos y conocimientos relacionados con
 * Continuar haciendo un grado superior de ASIR y más adelante cursos especializados en hardware.
 * Ganar aún más experiencia en el sector con prácticas educativas
 * Poder trabajar cómo técnico informático / técnico heldesk
-
----
-
-## 📞 Contacto
-
-📸 **email**: clementeramosgutierrez@gmail.com
-
-📞 **Teléfono:** (+34) 684-21-85-89
-
-💼 **LinkedIn:** @clemente-ramos-gutierrez
 
 ---
 
