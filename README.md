@@ -45,7 +45,7 @@ En esta sección documento proyectos prácticos y conocimientos relacionados con
 
 ---
 
-# 🌐 Para más información entra en mi i página web
+# 🌐 Para más información entra en mi página web
 
 https://clemente825.github.io/portafolio-clemente/
 
